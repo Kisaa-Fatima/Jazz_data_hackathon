@@ -1,22 +1,22 @@
-#Super Store Dashboard Project
+# Super Store Dashboard Project:
 This repository contains the code and resources for the Super Store Dashboard project. This project was created by our team using a dataset provided by Jazz company, with the goal of uncovering hidden patterns, trends, and insights through Exploratory Data Analysis (EDA) and interactive visualizations.
 
-#Table of Contents
-Introduction
-Dataset
-Exploratory Data Analysis (EDA)
-Custom Visualizations
-Dashboards
-User Stories
-Installation
+#Table of Contents:
+-Introduction
+-Dataset
+-Exploratory Data Analysis (EDA)
+-Custom Visualizations
+-Dashboards
+-User Stories
+-Installation
 
-#Introduction
+#Introduction:
 The Super Store Dashboard project aims to provide insightful analysis and visualizations of a Super Store dataset. By performing EDA and creating custom interactive visualizations using tableau, we have highlighted hidden patterns and trends within the data. The resulting dashboards and user stories effectively convey the meaningful insights derived from the analysis.
 
-#Dataset
+#Dataset:
 The dataset used in this project was provided by Jazz company and contains information related to sales, customers, products, and other relevant aspects of a Super Store.
 
-#Exploratory Data Analysis (EDA)
+#Exploratory Data Analysis (EDA):
 To understand the dynamics of the dataset, we performed comprehensive EDA. This included:
 
 #Data cleaning and preprocessing
