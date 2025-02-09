@@ -1,5 +1,5 @@
-# Super Store Dashboard Project:
-This repository contains the code and resources for the Super Store Dashboard project. This project was created by our team using a dataset provided by Jazz company, with the goal of uncovering hidden patterns, trends, and insights through Exploratory Data Analysis (EDA) and interactive visualizations.
+# Dashboard Project:
+This repository contains the code and resources for the Super Store Dashboard project. This project was created by our team using a dataset provided, with the goal of uncovering hidden patterns, trends, and insights through Exploratory Data Analysis (EDA) and interactive visualizations.
 
 # Table of Contents:
 -Introduction
